@@ -1,0 +1,17 @@
+\contentsline {chapter}{\hskip 1em\relax ACKNOWLEDGEMENT}{i}
+\contentsline {chapter}{\hskip 1em\relax ABSTRACT}{ii}
+\contentsline {chapter}{\hskip 1em\relax LIST OF FIGURES}{iii}
+\contentsline {chapter}{\hskip 1em\relax LIST OF TABLES}{iv}
+\contentsline {chapter}{\hskip 1em\relax LIST OF SYMBOLS AND ABBREVIATIONS}{v}
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}
+\contentsline {section}{\numberline {1.1}General}{1}
+\contentsline {section}{\numberline {1.2}Objectives of the Work}{2}
+\contentsline {section}{\numberline {1.3}Outline of Report}{2}
+\contentsline {chapter}{\numberline {2}TOPOLOGIES}{3}
+\contentsline {section}{\numberline {2.1}PRIMARY SIDE SWITCH TOPOLOGY}{3}
+\contentsline {section}{\numberline {2.2}SECONDARY SIDE SWITCH TOPOLOGY}{3}
+\contentsline {section}{\numberline {2.3}SECONDARY SIDE SWITCH TOPOLOGY}{4}
+\contentsline {chapter}{\numberline {3} RESULTS OF THE SETUP}{5}
+\contentsline {chapter}{\numberline {4}CONCLUSION}{7}
+\contentsline {chapter}{\hskip 1em\relax BIBLIOGRAPHY}{8}
+\contentsline {chapter}{\hskip 1em\relax APPENDIX}{9}
